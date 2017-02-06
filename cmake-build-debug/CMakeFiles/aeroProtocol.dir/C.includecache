@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/scott/repos/code/aeroProtocol/main.c
+stdio.h
+-
+assert.h
+-
+unistd.h
+-
+string.h
+-
+pthread.h
+-
+stdio.h
+-
+nanomsg/nn.h
+-
+nanomsg/pipeline.h
+-
+

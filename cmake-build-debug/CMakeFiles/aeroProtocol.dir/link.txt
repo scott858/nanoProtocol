@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/aeroProtocol.dir/main.c.o  -o aeroProtocol -Wl,-rpath,/usr/local/lib /usr/local/lib/libnanomsg.so 
